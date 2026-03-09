@@ -1,20 +1,25 @@
 #DAILY CALORIE TRACKER 
 #------------------------------------------------------
 #COURSE : PROGRAMMING FOR PROBLEM SOLVING USING PYTHON
+
 #NAME : AKANKSHA KUMARI
 #ROLL NO.:2501010076
 #SECTION : A
 #SEMESTER : 1st
+
 #------------------------------------------------------
 #PROJECT OVERVIEW :-
 #This is a simple calorie tracker code that helps user track their daily calorie intake.
 #user can input meals,calorie values and can calulate their calorie intake
 #compare them to daily limit
+
 #-----------------------------------------------------------
+
 #FEATURES :-#Add multipe meals with calorie counts
 #calculate total and average calories
 #warning system if limit is exceeded
 #-----------------------------------------------------------
+
 print("WELCOME TO THE DAILY CALORIE TRACKER")
 print("..........................................")
 num_meals=int(input("HOW MANY MEALS DID YOU HAVE TODAY?"))
