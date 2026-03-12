@@ -14,7 +14,6 @@
 #compare them to daily limit
 
 #-----------------------------------------------------------
-
 #FEATURES :-#Add multipe meals with calorie counts
 #calculate total and average calories
 #warning system if limit is exceeded
